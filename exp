@@ -1,3 +1,0 @@
-; antic modes - https://gury.atari8.info/refs/graphics_modes.php
-; C:\MADS\mads -l -t main.asm - compile
-; C:\Altira\altirra /singleinstance main.obx - run
